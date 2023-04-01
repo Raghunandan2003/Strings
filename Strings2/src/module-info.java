@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author TYSS
+ *
+ */
+module Strings {
+}
